@@ -1,0 +1,34 @@
+header,
+footer {
+    background: linear-gradient(to right, rgb(77, 152, 238), #064B99);
+    border-radius: 8px;
+    margin: 35px;
+    padding: 2px;
+    font-size: large;
+
+
+}
+
+header img {
+    height: 65px;
+    transform: rotateZ(40deg);
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Days One';
+    color: white;
+    background: linear-gradient(to right, #5BA2FF, #366199);
+    '
+
+}
+
+main {
+    font-size: medium;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
